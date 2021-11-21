@@ -1,0 +1,21 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.col-md{ 
+    margin-left: 280px;
+    margin-bottom: 0px;
+
+}
+
+.lead{
+    margin-bottom: 25px;
+}
+
+.baglantı{
+    text-align: center;
+}
+
+.col-xl{
+    margin-left: 300px;
+}
